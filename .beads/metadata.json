@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "cl_rtnetlink",
+  "project_id": "7f5de025-5dc6-4fe4-a633-59bf83a88e17"
+}
